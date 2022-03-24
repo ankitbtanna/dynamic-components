@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "dynamic-components": "apps/dynamic-components",
+    "dynamic-components-e2e": "apps/dynamic-components-e2e"
+  }
+}
